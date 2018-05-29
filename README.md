@@ -1,7 +1,9 @@
 # Ball-Mill
 This ball mill was made for grinding sand and cleaning objects like rusty bolts. It works but takes a very long time to grind sand down, this is because of the size of the balls are too small. Getting larger balls will help.
 Some professionals that design and manufacture mill for industry helped in the design of the lifter and the correct speed for milling. The professionals were interested in how long it would take for the lining of the mill to be worn out. This is yet to be tested.
+
 [https://tinkersprojects.com/project/3d-printed-ball-mill/](https://tinkersprojects.com/project/3d-printed-ball-mill/)
+
 The parts can be found here: [https://www.thingiverse.com/thing:2713357](https://www.thingiverse.com/thing:2713357)
 
 ## Circuit:
