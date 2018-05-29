@@ -12,6 +12,14 @@ The program is currently has been thrown together and will need to be redone at 
 ## Operation:
 After powering the mill with 12V DC power, settings can be seen/changed using the LCD and can be altered using the 3 buttons (up, down and enter). Speed and duration are the 2 settings that can be set to control the mill. While the mill is in operation, the LCD will display the current speed and the time left of milling. By pressing the enter button, the mill will stop.
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=u7eSL-mbXYQ
+" target="_blank"><img src="http://img.youtube.com/vi/u7eSL-mbXYQ/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6Afjj5jZ74U
+" target="_blank"><img src="http://img.youtube.com/vi/6Afjj5jZ74U/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ## parts list:>
 1 x controller, PLEX or Arduino UNO (see below for more details)
 1 x photo interupt
