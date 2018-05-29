@@ -21,17 +21,17 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> <a href="h
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## parts list:
-1 x controller, PLEX or Arduino UNO (see below for more details)
-1 x photo interupt
-2 x 20mm M3 srew
-2 x 20mm M3 srew
-1 x 100mm M8 bolt
-2 x 60mm M8 bolt
-4 x M8 nut
-4 x 608 bearing
-1 x 12V 688RPM 9Kg.cm geared DC motor, part no.:[JGB37-550](https://www.aliexpress.com/item/Free-Shipping-12V-688RPM-9Kg-cm-high-power-High-torque-miniature-dc-gear-motor-motors-JGB37/32776724375.html?spm=a2g0s.9042311.0.0.JbnZ7R)
-4 x rubber feet
-100 x 6mm-10mm ball bearings
+- 1 x controller, PLEX or Arduino UNO (see below for more details)
+- 1 x photo interupt
+- 2 x 20mm M3 srew
+- 2 x 20mm M3 srew
+- 1 x 100mm M8 bolt
+- 2 x 60mm M8 bolt
+- 4 x M8 nut
+- 4 x 608 bearing
+- 1 x 12V 688RPM 9Kg.cm geared DC motor, part no.:[JGB37-550](https://www.aliexpress.com/item/Free-Shipping-12V-688RPM-9Kg-cm-high-power-High-torque-miniature-dc-gear-motor-motors-JGB37/32776724375.html?spm=a2g0s.9042311.0.0.JbnZ7R)
+- 4 x rubber feet
+- 100 x 6mm-10mm ball bearings
 
 ## Controller:
 The controller used is the PLEX board from plexcontroller.com (an Arduino UNO can be used instead). The controller Uses a 16x2 LCD and buttons inputs to set settings display speed/timer while in operation. A photo interrupt and encoder are used to calculate the speed of the mill to be compared to the set speed. This comparison is analyzed and an output is used to control a MOSFET for the motor. 
