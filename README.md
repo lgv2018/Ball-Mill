@@ -18,7 +18,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> <a href="h
 " target="_blank"><img src="http://img.youtube.com/vi/6Afjj5jZ74U/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-## parts list:>
+## parts list:
 1 x controller, PLEX or Arduino UNO (see below for more details)
 1 x photo interupt
 2 x 20mm M3 srew
