@@ -7,9 +7,11 @@ Some professionals that design and manufacture mill for industry helped in the d
 The parts can be found here: [https://www.thingiverse.com/thing:2713357](https://www.thingiverse.com/thing:2713357)
 
 ## Circuit:
+![circuit](https://github.com/tinkersprojects/Ball-Mill/blob/master/images/pcb_ball_mill_lpG2k1rLUu.png "circuit")
+![circuit](https://github.com/tinkersprojects/Ball-Mill/blob/master/images/pcb_ball_mill_2_eeNeoLiRE7.png "circuit")
 
 ## Program:
-The program is currently has been thrown together and will need to be redone at somepoint. The Program dose work it just eed to be cleaned up. Contact me if you want to help.
+The program is currently has been thrown together and will need to be redone at somepoint. The Program dose work it just need to be cleaned up. Contact me if you want to help.
 
 ## Operation:
 After powering the mill with 12V DC power, settings can be seen/changed using the LCD and can be altered using the 3 buttons (up, down and enter). Speed and duration are the 2 settings that can be set to control the mill. While the mill is in operation, the LCD will display the current speed and the time left of milling. By pressing the enter button, the mill will stop. Click below to watch the video.
