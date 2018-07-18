@@ -40,3 +40,4 @@ The controller used is the PLEX board from plexcontroller.com (an Arduino UNO ca
 
 ## NOTE:
 A diode and capacitor were used to block current drawn from the controller to the DC motor. If not used the controller will rest.
+
